@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SeleniumFrameworkSuite" verbose="1">
+    <test name="SampleTests">
+        <classes>
+            <class name="Project_name.SeleniumFrameworkDesign.StandAloneTest"/>
+        </classes>
+    </test>
+</suite>
